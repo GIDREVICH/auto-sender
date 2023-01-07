@@ -1,0 +1,14 @@
+{
+    'NAME_TK':
+    [
+        "КИТ",
+        "СДЭК",
+        "БОКСБЕРРИ"
+    ],
+    'LINK_TK':
+            [
+                'https://tk-kit.com',
+                'https://www.cdek.ru/ru/tracking?order_id=',
+                'https://boxberry.ru/tracking-page'
+            ]
+}
